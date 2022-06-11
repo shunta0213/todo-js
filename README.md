@@ -1,2 +1,3 @@
-# codesandbox-test
-Created with CodeSandbox
+# Javascriptを使ったTODO
+
+Reactを勉強する前に、Javascriptを使って同じ機能をじっそうしてみる
